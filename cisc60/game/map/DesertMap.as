@@ -1,0 +1,1 @@
+﻿package cisc60.game.map {		import flash.display.MovieClip;		public class DesertMap extends MovieClip {				public function DesertMap() {			trace("before new hero");		}	}}

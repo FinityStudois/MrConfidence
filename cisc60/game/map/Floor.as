@@ -1,0 +1,1 @@
+﻿package cisc60.game.map {		import flash.display.MovieClip;		public class Floor extends MovieClip {				public function Floor() {			trace("Floor is Called");		}	}}
