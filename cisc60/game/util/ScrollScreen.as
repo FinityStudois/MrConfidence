@@ -1,1 +1,1 @@
-﻿package cisc60.game.util {		import flash.display.MovieClip;		public class ScrollScreen extends MovieClip {				public static  var VELOCITY = 0.87;		public static  var MAX_SPEED = 5;					}}
+﻿package cisc60.game.util {		import flash.display.MovieClip;		public class ScrollScreen extends MovieClip {				public static  var VELOCITY = 0.87;		public static  var MAX_SPEED = 5;			}}
